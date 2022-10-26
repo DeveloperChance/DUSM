@@ -12,9 +12,11 @@ To Be Written.
 
 ## Step By Step Installation
 
-*Step 1.* Create New User
+**Step 1.** Create New User
 1a. Be Logged in as an Administrator for the Server
+
 2a. `sudo adduser dusm`
 - `adduser` is the command
 - `dusm` is the username
+
 3a. Follow the Prompts
