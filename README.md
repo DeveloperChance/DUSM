@@ -15,8 +15,8 @@ To Be Written.
 **Step 1.** Create New User
 1a. Be Logged in as an Administrator for the Server
 
-2a. `sudo adduser dusm`
+1b. `sudo adduser dusm`
 - `adduser` is the command
 - `dusm` is the username
 
-3a. Follow the Prompts
+1c. Follow the Prompts
